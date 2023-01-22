@@ -10,14 +10,14 @@
   
 ### Tech Specs:
   
-  **이 프레임워크를 이용해서 간단한 서비스를 해 봤어요**
+  **이 프레임워크를 이용해서 간단한 서비스를 해 봤어요.**
   
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903133-d66f2f73-74b1-43c5-9935-8ab967ccd6fa.png"></code>
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903153-3aeaf0f4-4086-4b37-a508-c7ceb0ff64c9.png"></code>
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903183-731f72bc-739e-47d4-840a-c3de0932b265.png"></code>
 
 
-  **뭔가 만드는데 조금 써 봤어요:**
+  **뭔가 만드는데 조금 써 봤어요.**
   
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213902950-69f325e5-442d-43c7-8de2-ee937cff7f1f.png"></code>
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213902962-b9ac6608-889f-4e17-86b2-16e6494f3070.png"></code>
@@ -29,7 +29,7 @@
 
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903277-e8107a27-2f56-4ab3-b9e4-5d6d4c4b6505.png"></code>
   
-  **요즘엔 이런 걸 배우고 있어요.**
+  **요즘엔 이런 걸 관심있게 배우고 있어요.**
   
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903229-fe5b3716-83ed-4acc-9998-3dd8b788bea6.png"></code>
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903239-cc559171-110b-4ffb-8969-234b2523db29.png"></code>
