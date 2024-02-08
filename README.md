@@ -32,8 +32,6 @@
   **요즘엔 이런 걸 관심있게 배우고 있어요.**
   
   <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903229-fe5b3716-83ed-4acc-9998-3dd8b788bea6.png"></code>
-  <code><img height="20" src="https://user-images.githubusercontent.com/31124212/213903239-cc559171-110b-4ffb-8969-234b2523db29.png"></code>
-
   
 </div>
 
