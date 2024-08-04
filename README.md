@@ -40,3 +40,6 @@
 - **비용 최적화**에 관심이 많습니다. 가능한 적은 비용으로 안정적인 서비스를 운영하는 방법을 고민합니다.
 - **Readable Code** 및 코드의 **유지보수** 에 관심이 많습니다.
 - 반복되는 일을 자동화하는 것을 좋아합니다.
+
+### Certifications
+<img height="100" src="https://github.com/user-attachments/assets/982e66ae-697c-4814-94c4-e00a77b078f5">
