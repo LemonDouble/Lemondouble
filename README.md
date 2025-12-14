@@ -1,12 +1,6 @@
 ## LemonDouble ![](https://komarev.com/ghpvc/?username=Lemondouble&color=green&label=Profile+views)
 
 <div align=center>
-
-<br />
-<br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Lemondouble&column=4&margin-w=15&margin-h=15&theme=discord">
-<br />
-<br />
   
 ### Tech Specs:
   
