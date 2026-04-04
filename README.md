@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=LemonDouble&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Homelab%20%7C%20Home%20Automation%20%7C%20ML%20%7C%20Open%20Source&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=LemonDouble&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Homelab%20%7C%20Home%20Automation%20%7C%20ML%20%7C%20Open%20Source%20%7C%20%EC%9E%AC%EB%B0%8C%EB%8A%94%EA%B1%B0%EB%A9%B4%20%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98%20%ED%95%A9%EB%8B%88%EB%8B%A4&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemondouble&color=45B7D1&style=flat-square&label=Profile+Views)
 
@@ -42,6 +42,12 @@
 | 2023 | [minio/operator](https://github.com/minio/operator) | [#1910](https://github.com/minio/operator/pull/1910) | existingSecret YAML 들여쓰기 수정 |
 | 2023 | [getsentry/sentry](https://github.com/getsentry/sentry) | [#60571](https://github.com/getsentry/sentry/pull/60571) | 문서 오타 수정 |
 | 2023 | [stepci/stepci](https://github.com/stepci/stepci) | [#66](https://github.com/stepci/stepci/pull/66) | CLI 기본 명령어 출력 추가 |
+
+---
+
+## 📜 Certifications
+
+<img height="100" src="https://github.com/user-attachments/assets/982e66ae-697c-4814-94c4-e00a77b078f5">
 
 ---
 
