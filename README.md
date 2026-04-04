@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=LemonDouble&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Homelab%20%7C%20Home%20Automation%20%7C%20ML%20%7C%20Open%20Source%20%7C%20%EC%9E%AC%EB%B0%8C%EB%8A%94%EA%B1%B0%EB%A9%B4%20%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98%20%ED%95%A9%EB%8B%88%EB%8B%A4&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=LemonDouble&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Home%20K8S%20%7C%20IoT%20%7C%20ML%20%7C%20Server%20%7C%20Open%20Source%20%7C%20%EC%82%AC%EC%8B%A4%20%EC%9E%AC%EB%B0%8C%EC%96%B4%EB%B3%B4%EC%9D%B4%EB%A9%B4%20%EC%95%84%EB%AC%B4%EA%B1%B0%EB%82%98%20%ED%95%A9%EB%8B%88%EB%8B%A4.&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lemondouble&color=45B7D1&style=flat-square&label=Profile+Views)
+[![Blog](https://img.shields.io/badge/Blog-blog.lemondouble.com-45B7D1?style=flat-square)](https://blog.lemondouble.com)
+
+<img src="https://github-profile-trophy.vercel.app/?username=LemonDouble&theme=nord&no-frame=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
