@@ -5,7 +5,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-blog.lemondouble.com-45B7D1?style=flat-square)](https://blog.lemondouble.com)
 
-<img src="https://github-profile-trophy.vercel.app/?username=LemonDouble&theme=nord&no-frame=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=LemonDouble&theme=nord&no-frame=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
