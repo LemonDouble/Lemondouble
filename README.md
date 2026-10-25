@@ -19,9 +19,10 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><a href="https://github.com/Lemon-HACS"><img src="https://github.com/Lemon-HACS.png" width="88" alt="Lemon-HACS" /><br><b>Lemon-HACS</b></a><br>Home Assistant 통합</td>
-    <td align="center" width="33%"><a href="https://github.com/Lemon-Obsidian"><img src="https://github.com/Lemon-Obsidian.png" width="88" alt="Lemon-Obsidian" /><br><b>Lemon-Obsidian</b></a><br>Obsidian 플러그인</td>
-    <td align="center" width="33%"><a href="https://github.com/LemonDoubleHQ"><img src="https://github.com/LemonDoubleHQ.png" width="88" alt="LemonDoubleHQ" /><br><b>LemonDoubleHQ</b></a><br>홈랩 서버와 인프라</td>
+    <td align="center" width="25%"><a href="https://github.com/Lemon-HACS"><img src="https://github.com/Lemon-HACS.png" width="88" alt="Lemon-HACS" /><br><b>Lemon-HACS</b></a><br>Home Assistant 통합</td>
+    <td align="center" width="25%"><a href="https://github.com/Lemon-Obsidian"><img src="https://github.com/Lemon-Obsidian.png" width="88" alt="Lemon-Obsidian" /><br><b>Lemon-Obsidian</b></a><br>Obsidian 플러그인</td>
+    <td align="center" width="25%"><a href="https://github.com/LemonDoubleHQ"><img src="https://github.com/LemonDoubleHQ.png" width="88" alt="LemonDoubleHQ" /><br><b>LemonDoubleHQ</b></a><br>홈랩 서버와 인프라</td>
+    <td align="center" width="25%"><a href="https://github.com/FeatherAnime2D"><img src="https://github.com/FeatherAnime2D.png" width="88" alt="FeatherAnime2D" /><br><b>FeatherAnime2D</b></a><br>2D 캐릭터 애니메이션</td>
   </tr>
 </table>
 
